@@ -3,6 +3,9 @@
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div> 
 
+# 💫 About Me:
+I like eating fried chicken
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pndlghn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pndlghn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alghanipandu@gmail.com) 
 
