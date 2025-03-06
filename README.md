@@ -14,7 +14,7 @@ I like eating fried chicken
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pndlghn&theme=radical" alt="GitHub Streak"/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=pndlghn&theme=dark&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pndlghn&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
